@@ -1,6 +1,4 @@
 # HackNPitch_Asterisk_E-CommerceBook
-Our website is live on:
-https://asterisk174.github.io/HackNPitch_Asterisk_E-CommerceBook/demo_page.html
 
 Demo page:- (Only for Initial stage)
 1>Add atleast 4 books
