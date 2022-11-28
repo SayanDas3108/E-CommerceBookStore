@@ -1,9 +1,5 @@
 # HackNPitch_Asterisk_E-CommerceBook
 
-Demo page:- (Only for Initial stage)
-1>Add atleast 4 books
-2>Click continue button
-
 Home Page:-
 1>Click Catagories and click
     i>Sell Page - To go to sell page
